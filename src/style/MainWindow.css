@@ -1,0 +1,35 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-font-family: "Trebuchet MS";
+}
+
+.myButton{
+    -fx-background-color:  none;
+    -fx-background-radius: 99;
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-border-radius: 99;
+    -fx-border-radius: 99;
+    -fx-border-color: #3498db;
+}
+
+.myButton:hover{
+    -fx-background-color:  #3498db;
+    -fx-text-fill: #fff;
+    -fx-border-color: #3498db;
+}
+
+.refreshIcon{
+    -fx-background-color:  #3498db;
+    -fx-background-radius: 99;
+    -fx-border-radius: 99;
+    -fx-border-radius: 99;
+    -fx-border-color: #3498db;
+}
+
+.refreshIcon:hover{
+    -fx-background-color:  #2978AD;
+}
